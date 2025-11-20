@@ -51,7 +51,7 @@ export const About: React.FC = () => {
                </div>
                <div className="p-6 font-mono leading-relaxed">
                   <p className="mb-4">
-                     <span className="text-3xl font-bold float-left mr-2 mt-[-10px]">H</span>ello! I'm a multidisciplinary designer based in the digital void. I bridge the gap between aesthetic chaos and functional structure.
+                     <span className="text-3xl font-bold float-left mr-2 mt-[-10px]">H</span>entai
                   </p>
                   <p className="mb-4">
                      My philosophy is <strong>Anti-Boring</strong>. I believe websites should feel like places, not just pages. I specialize in React ecosystems but think in pure color and typography.
