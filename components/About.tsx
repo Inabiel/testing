@@ -10,7 +10,7 @@ export const About: React.FC = () => {
         <div className="md:col-span-4 flex flex-col">
            <div className="bg-[#FFFAFA] border-4 border-black hard-shadow p-4 h-full">
               <div className="bg-[#C7CEEA] aspect-square border-2 border-black mb-4 flex items-center justify-center overflow-hidden relative group">
-                 <img src="../israels-prime-minister-benjamin-netanyahu-meets-italian-news-photo-1719255509.avif" alt="Profile" className="w-full h-full object-cover group-hover:scale-110 transition-transform" />
+                 <img src="../Benjamin_Netanyahu_portrait.jpg" width="50px" height="50px" alt="Profile" className="w-full h-full object-cover group-hover:scale-110 transition-transform" />
                  <div className="absolute bottom-2 right-2 bg-white px-2 border border-black font-pixel text-xs animate-bounce">LVL 99</div>
               </div>
               <h2 className="text-3xl font-black uppercase text-center mb-1 bg-black text-white">Benjamin Netanyahu</h2>
