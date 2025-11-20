@@ -13,7 +13,7 @@ export const About: React.FC = () => {
                  <img src="https://picsum.photos/400/400?random=99" alt="Profile" className="w-full h-full object-cover group-hover:scale-110 transition-transform" />
                  <div className="absolute bottom-2 right-2 bg-white px-2 border border-black font-pixel text-xs animate-bounce">LVL 99</div>
               </div>
-              <h2 className="text-3xl font-black uppercase text-center mb-1 bg-black text-white">Designer_Z</h2>
+              <h2 className="text-3xl font-black uppercase text-center mb-1 bg-black text-white">Benjamin Netanyahu</h2>
               <div className="text-center font-mono text-sm mb-4">Class: Creative Technologist</div>
               
               <div className="space-y-2 font-pixel text-lg">
